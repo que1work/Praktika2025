@@ -1,0 +1,270 @@
+
+.container {
+  max-width: 400px;
+  padding: 24px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.button {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  max-width: 350px;
+  margin: auto;
+  text-align: left;
+}
+
+.label {
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 5px;
+  display: block;
+}
+
+.inputContainer {
+  display: flex;
+  align-items: center;
+}
+
+.select {
+  border: none;
+  background: none;
+  font-size: 16px;
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.input {
+  width: 100%;
+  border: none;
+  font-size: 16px;
+  outline: none;
+  padding-top: 20px;
+}
+
+.hr {
+  border: none;
+  height: 1px;
+  background: #ccc;
+  margin: 5px 0;
+}
+
+.error {
+  color: red;
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+.button {
+  margin-top: 10px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px;
+}
+
+.stepper {
+  width: 20%;
+}
+
+.forma {
+ text-align: center;
+ max-width: 400px;
+ margin: 0 auto;
+}
+
+.pad p {
+  padding-bottom: 30px;
+}
+
+.stepper {
+  padding-right: 150px;
+}
+
+.important {
+  display: flex;
+  text-align: left;
+  gap:20px;
+  background-color: #F0F2F4;
+  border-radius: 10px;
+}
+
+.important img {
+  padding-bottom: 40px;
+}
+
+.important {
+  margin-bottom: 20px;
+}
+
+.phonenumber {
+  border: 1px solid #E2E4E5;
+  border-radius: 10px;
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 20px;
+  margin-bottom: 20px;
+}
+
+.phonenumber a {
+  padding-top: 30px;
+}
+
+.confirmation-label {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.input-wrapper {
+  display: flex;
+  align-items: center;
+  padding-bottom: 5px;
+  text-align: left;
+}
+
+.input-wrapper hr {
+  color: #007AFF;
+}
+
+.code-input {
+  font-size: 18px;
+  border: none;
+  outline: none;
+  letter-spacing: 10px;
+  width: 100%;
+  text-align: center;
+}
+
+.confirmation-text {
+  font-size: 12px;
+  color: gray;
+}
+
+
+.confirm-button {
+  width: 100%;
+  padding: 10px;
+  background-color: #f5f5f5;
+  border: 1px solid gray;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.confirm-button:hover {
+  background-color: #e0e0e0;
+}
+
+.details {
+  max-width: 400px;
+  padding: 24px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
+
+.Emaildiv,
+.Passworddiv {
+  margin-bottom: 16px;
+}
+
+.Emaildiv label,
+.Passworddiv label {
+  font-size: 14px;
+  color: #333;
+  font-weight: 500;
+}
+
+input {
+  width: 100%;
+  padding: 10px 1px;
+  margin-top: 4px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.Passworddiv {
+  position: relative;
+}
+
+.Passworddiv .eye-icon {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  padding-top: 20px;
+}
+
+button {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  background-color: #007bff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.datebirth {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  padding-top: 15px;
+}
+
+.itin {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  padding-left: 15px;
+}
